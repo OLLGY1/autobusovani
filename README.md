@@ -6,11 +6,11 @@ Aplikace pro lidi co pravidelně cestují autobusama/šalinama a neví, jestli a
 
 <h2>CÍL SYSTÉMU</h2>
 
-Cíl aplikace by byl 
+Cíl aplikace by byl zjednodušit miskomunikaci mezi lidmi v šalinách/autobusech ohledně zasedání
 
 <h2>CÍLOVÁ SKUPINA</h2>
 
-
+Každý člověk, který pravidelně jede autobusem/šalinou
 
 <h2>BĚŽNÝ UŽIVATEL</h2>
 
@@ -32,11 +32,3 @@ Uživatel (Věk, sedí/nesedí, chce si sednout/nechce si sednout/je jim to jedn
 
 
 
-
-
-
-
-V Aplikaci by si každý zadal profil (rok, jak vypadají, jak moc si chcou sednout a proč a jak moc jsou odchotni se postavit aby si sednul někdo jiný). Aplikace by používala internet a GPS tak, aby  se dalo poznat kdo jede v jakém buse (podle toho jestli aplikaci maji nebo ne ze jo), například:
-"V Autobuse/Šaline "1 --> Řečkovice" na zastávce "Hlavní nádraží" je 67 lidí používající _______" 
-Aplikace ukáže v daném buse na vrchu listu lidi, co si hodlaj stoupnout (třeba plánujou na dalši zastávce odejít)
-Jsou lidé kteří nechou, aby si pro ně ostatní postavily a nechali si je sednout (Většinu času když si pro někoho stoupnete tak jim to říka že si o nich myslíte že jsou staří, a mnoho lidí nechce aby jim náhodní lidi v autobuse říkali že jsou staří)
